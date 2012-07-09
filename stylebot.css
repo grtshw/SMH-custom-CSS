@@ -1,0 +1,252 @@
+
+dy {
+    background-color: #EDEDED;
+}
+
+body {
+    font-size: 12px;
+    line-height: 1.7em;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #232323;
+    font-weight: normal;
+}
+
+div.sidebar.span-5 {
+    display: none;
+}
+
+div.span-16 {
+    padding: 0;
+}
+
+.prepend-5 {
+    padding: 10px ;
+}
+
+.span-11 {
+    with: auto ;
+}
+
+div.push-0.span-11.last {
+    float: none;
+}
+
+h1.cN-headingPage.prepend-5.span-11.last {
+    width: auto;
+}
+
+div.c5.classifieds.cfix {
+    display: none;
+}
+
+div.fN-affiliateStrip {
+    display: none;
+}
+
+div.c5.top5.cfix {
+    display: none;
+}
+
+div.ad.adSpot-textBox {
+    display: none;
+}
+
+div.footer.span-24 {
+    display: none;
+}
+
+div.ad {
+    display: none;
+}
+
+div.cN-storyHeadlineLead.strapStory.topStory.storyMore.firstStory h3 a {
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    color: #007CC3;
+}
+
+div.cN-storyHeadlineLead.strapStory.topStory.storyMore h3 a {
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: normal;
+    font-size: 14px;
+    color: #007CC3;
+}
+
+div.cN-storyHeadlineLead.strapStory.topStory.storyMore.firstStory {
+    border-style: solid;
+    border-bottom-width: 1px;
+    border-color: #DDDDDD;
+}
+
+div.cN-storyHeadlineLead.strapStory.topStory.storyMore {
+    border-style: solid;
+    border-color: #DDDDDD;
+    border-bottom-width: 1px;
+    padding-bottom: 6px;
+}
+
+div.cT-quoteRotator {
+    display: none;
+}
+
+div.cT-hotTopics ul {
+    display: none;
+}
+
+div.cT-hotTopics h3 {
+    display: none;
+}
+
+div.span-24.last.cT-weekendStrip {
+    display: none;
+}
+
+a {
+    color: #007CC3 ;
+}
+
+h3.cT-strapHeading {
+    padding-top: 10px;
+    font-size: 20px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+div.cN-storyHeadlineLead.strapStory h3 a {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 14px;
+}
+
+.mySite, .banner, .cT-pencilStrip {
+    display: none;
+}
+
+div.nN-whiteStrip {
+    display: none;
+}
+
+div.cT-featuredNews {
+    display: none;
+}
+
+div.cN-storyHeadlineLead.strapStory.topStory.storyMore.firstStory.clippingArea.clippingAction {
+    width: 390px;
+}
+
+div.cN-storyHeadlineLead.strapStory.topStory.storyMore.clippingArea.clippingAction {
+    width: 390px;
+}
+
+body.smh.home.index.scriptable esi:include {
+    background-color: #e6e1e6;
+}
+
+div.outerWrap {
+    background-color: #FFFFFF;
+    border: none;
+    padding-bottom: 0;
+    margin-bottom: 100px;
+}
+
+.aside iframe {
+    display: none;
+}
+
+h3.cN-headerRich.headerMozo {
+    display: none;
+}
+
+h1.cN-headingPage {
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+div.articleBody p {
+    font-size: 14px;
+    line-height: 1.5em;
+    margin-right: 60px;
+}
+
+#jobs {
+    display: none;
+}
+
+div.wrap.cfix {
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+div.header.span-24 h2 a {
+    font-family: Helvetica, Arial, sans-serif;
+    display: none;
+}
+
+div.header.span-24 h2 {
+    font-family: Helvetica, Arial, sans-serif;
+    display: none;
+}
+
+p.mh-logo a {
+    padding-bottom: 20px;
+}
+
+#nav {
+    margin-top: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#nav li a {
+    color: #FFFFFF;
+}
+
+li.selected a {
+    color: #000000;
+}
+
+img {
+    border-radius: 8px;
+    background-color: #e8e8e8;
+}
+
+div.wo-widget-wrap {
+    display: none;
+}
+
+div.cT-imageLandscape {
+    position: relative;
+}
+
+div.cT-imageLandscape p {
+    background-color: #444444;
+    color: #FFFFFF;
+    opacity: 0.95;
+    position: absolute;
+    left: 0;
+    bottom: 0px;
+    padding: 4px;
+    font-size: 12px;
+    width: 612px;
+    margin-right: 10px;
+}
+
+ul.nav {
+    display: none;
+}
+
+h3.cT-strapHeading.taglineIcon.taglineIcon.tagline a {
+    color: #000000;
+}
+
+h3.cT-strapHeading.videoStrapHeading.strapHeadingWireNews {
+    display: none;
+}
+
+div.wof.clippingAction {
+    background-color: #e8e8e8;
+    margin-top: -8px;
+}
+
+div.wof.clippingAction h3 a {
+    color: #c2c2c2;
+}
+
+
