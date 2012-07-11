@@ -1,9 +1,9 @@
-
-dy {
+html, body {
     background-color: #EDEDED;
 }
 
 body {
+    margin-top: 40px;
     font-size: 12px;
     line-height: 1.7em;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -145,6 +145,7 @@ div.outerWrap {
     border: none;
     padding-bottom: 0;
     margin-bottom: 100px;
+    border-radius: 8px;
 }
 
 .aside iframe {
